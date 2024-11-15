@@ -1,1 +1,1 @@
-# nat-gate-way-instance-test
+# nat-gateway-instance-test
